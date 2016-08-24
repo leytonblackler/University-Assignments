@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Snake()
+comment0.text=CONSTRUCTOR
+comment1.params=
+comment1.target=java.lang.String\ randomDirection()
+comment1.text=Determines\ random\ direction\ based\ on\ 1\ of\ 4\ cases.
+comment2.params=
+comment2.target=void\ move()
+comment3.params=
+comment3.target=void\ draw()
+comment3.text=Draws\ the\ snake.
+comment4.params=
+comment4.target=double\ getX()
+comment4.text=Finds\ the\ centre\ x\ coordinate\ of\ the\ snake.
+comment5.params=
+comment5.target=double\ getY()
+comment5.text=Finds\ the\ centre\ y\ coordinate\ of\ the\ snake.
+numComments=6
